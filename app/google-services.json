@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978953334795",
+    "firebase_url": "https://fir-demo-b761c.firebaseio.com",
+    "project_id": "fir-demo-b761c",
+    "storage_bucket": "fir-demo-b761c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978953334795:android:87e51c20ae4528ef",
+        "android_client_info": {
+          "package_name": "com.example.jeetendraachtani.notificationsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978953334795-56i1mrrnomconm43klcbr4ihm4ep4ro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWr96Kammd3WfyvVBuUVtj4B0vmGFZbTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
